@@ -1,0 +1,2 @@
+# ws2812_SPI_DMA
+cubeMX配置的工程利用GD32f103通过SPI+DMA驱动WS2812
